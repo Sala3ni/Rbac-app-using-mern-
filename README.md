@@ -122,10 +122,10 @@ rbac-configurator/
 ## 🎨 Screenshots
 
 ### Dashboard
-![Dashboard](C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2025-09-17 124244.png")
+![Dashboard]()
 
 ### Role Management
-![Roles]("C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2025-09-17 123324.png")
+![Roles]()
 
 ### Natural Language Config
 ![AI Config](screenshots/ai-config.png)
