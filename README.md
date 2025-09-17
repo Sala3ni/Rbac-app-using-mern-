@@ -122,10 +122,10 @@ rbac-configurator/
 ## 🎨 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2025-09-17 124244.png")
 
 ### Role Management
-![Roles](screenshots/roles.png)
+![Roles]("C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2025-09-17 123324.png")
 
 ### Natural Language Config
 ![AI Config](screenshots/ai-config.png)
@@ -145,8 +145,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [saloni mishra](https://github.com/yourusername)
+- LinkedIn: [https://www.linkedin.com/in/contactsaloni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
 
